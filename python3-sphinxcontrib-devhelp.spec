@@ -6,7 +6,7 @@ Summary:	Sphinx extension which outputs Devhelp documents
 Summary(pl.UTF-8):	Rozszerzenie Sphinksa zapisujące dokumenty Devhelpa
 Name:		python3-sphinxcontrib-devhelp
 Version:	1.0.2
-Release:	4
+Release:	5
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinxcontrib-devhelp/
